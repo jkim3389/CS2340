@@ -1,4 +1,4 @@
 # CS2340 
 THIS IS PUBLIC REPOSITORY OF CS2340
 
-190120: Practicing Commit
+190120: Practicing Commit and Push
